@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "title": "Leer un libro",
+        "description": "Comprar y leer Pro React",
+        "status": "in-progress",
+        "tasks": []
+    },
+    {
+        "id": "2",
+        "title": "Aprender Aleman",
+        "description": "investigar sobre una academia para aprender el idioma Aleman",
+        "status": "in-progress",
+        "tasks": []
+    },
+    {
+        "id": "3",
+        "title": "Hacer la compra",
+        "description": "Realizar la compra para la quincena",
+        "status": "todo",
+        "tasks": [
+            {
+                "id": 1,
+                "name": "Arroz",
+                "done": false
+            },
+            {
+                "id": 2,
+                "name": "Carne",
+                "done": true
+            },
+            {
+                "id": 3,
+                "name": "Huevos",
+                "done": false
+            },
+            {
+                "id": 4,
+                "name": "Detergente",
+                "done": false
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Pagar el aquiler",
+        "description": "",
+        "status": "done",
+        "tasks": []
+    }
+]
